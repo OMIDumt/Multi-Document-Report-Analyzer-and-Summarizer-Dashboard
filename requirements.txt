@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+transformers
+torch
+spacy
+matplotlib
+wordcloud
+textblob
+pandas
