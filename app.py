@@ -6,8 +6,6 @@ from collections import Counter
 import pandas as pd
 
 import os
-os.system("python -m spacy download en_core_web_sm")
-os.system("python -m textblob.download_corpora")
 
 st.set_page_config(layout="wide", page_title="📊 Report Analyzer Dashboard")
 st.title("📊 Multi-Document Report Analyzer")
